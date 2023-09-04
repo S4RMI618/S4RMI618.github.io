@@ -1,7 +1,5 @@
 import React from "react";
 import ProjectItem from "./ProjectItem";
-import DigitalClockImg from "../../assets/images/DC.png";
-import RickAndMortyImg from "../../assets/images/RaM.png";
 import projects from "../../data/projects.js";
 
 const Projects = () => {
